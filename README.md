@@ -37,7 +37,7 @@ Aplicação feita em React Native para listar e dar likes em repositórios.
 Após clonar o repositório, acesse a pasta do projeto;
 
 ```
-$ cd conceitos-reactjs
+$ cd conceitos-react-native
 ```
 
 Em seguida, instale as dependências;
@@ -49,7 +49,7 @@ $ yarn
 Inicie o projeto;
 
 ```
-$ yarn dev
+$ yarn start
 ```
 ---
 
